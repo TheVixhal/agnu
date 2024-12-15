@@ -1,0 +1,50 @@
+export const products = [
+  {
+    id: '1',
+    name: 'AGNU Classic Hoodie',
+    description: 'Comfortable cotton-blend hoodie with embroidered AGNU logo',
+    price: 49.99,
+    image: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800',
+    inStock: true,
+  },
+  {
+    id: '2',
+    name: 'Research Lab Notebook',
+    description: 'Premium hardcover notebook with AGNU branding',
+    price: 24.99,
+    image: 'https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&q=80&w=800',
+    inStock: true,
+  },
+  {
+    id: '3',
+    name: 'Innovation T-Shirt',
+    description: 'Organic cotton t-shirt with unique AGNU design',
+    price: 29.99,
+    image: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800',
+    inStock: true,
+  },
+  {
+    id: '4',
+    name: 'AGNU Water Bottle',
+    description: 'Stainless steel water bottle with society logo',
+    price: 19.99,
+    image: 'https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&q=80&w=800',
+    inStock: true,
+  },
+  {
+    id: '5',
+    name: 'Research Lab Coat',
+    description: 'Professional lab coat with AGNU embroidery',
+    price: 39.99,
+    image: 'https://images.unsplash.com/photo-1581056771107-24ca5f033842?auto=format&fit=crop&q=80&w=800',
+    inStock: false,
+  },
+  {
+    id: '6',
+    name: 'AGNU Backpack',
+    description: 'Durable backpack perfect for carrying research materials',
+    price: 59.99,
+    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=800',
+    inStock: true,
+  }
+];
